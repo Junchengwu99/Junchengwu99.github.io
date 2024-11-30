@@ -11,7 +11,7 @@ I am currently a lecturer in the Department of Advertising, Communication Univer
 
 Want to know more or chat about research, graduate school, mental health, or something else? Email me anytime at junchengwu96@gmail.com. 
 
-[brain_image.png]
+avatar: "images/brain_image.png”
 
 
 
