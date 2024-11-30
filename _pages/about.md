@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a lecturer in the Department of Advertising, Communication University of China. I received my Ph.D. in communication and currently my research focuses on social neuroscience, psychophysiological measurements, and audience response measurement. Before receiving my Ph.D., I worked in [Neurosciense of Message Lab](https://nomcomm.github.io/) and [CarismaLab](https://www.carismalab.com/).
+I am currently a lecturer in the Department of Advertising, Communication University of China. I received my Ph.D. in communication and My primary research interest is in social neuroscience, psychophysiological measurements, and audience response measurement. Before receiving my Ph.D., I worked in [Neurosciense of Message Lab](https://nomcomm.github.io/) and [CarismaLab](https://www.carismalab.com/). In my spare time, I enjoy kayaking, paddling (though sometimes funny), and spending time with my cat Tuantuan.
 
-If we are interested in the same topics feel free to contact me at [junchengwu96@gmail.com]. In my spare time, I enjoy kayaking, paddling (though they are paid and quite pricey) and spending time with Wanbao and my cat Tuantuan.
-
+Want to know more or chat about research, graduate school, mental health, or something else? Email me anytime at junchengwu96@gmail.com. 
