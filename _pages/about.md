@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a lecturer in the Department of Advertising, Communication University of China. 
 
-I've received my Ph.D. in communication and My primary research interest is in social neuroscience, especially the mechanisms of brain synchronization in social contexts. Before receiving my Ph.D., I worked in [Neurosciense of Message Lab](https://nomcomm.github.io/) and [CarismaLab](https://www.carismalab.com/). 
+I've received my Ph.D. in communication and My primary research interest is in social neuroscience, especially the mechanisms of brain synchronization in social contexts. Before receiving my Ph.D., I worked as a visiting researcher in [Neurosciense of Message Lab](https://nomcomm.github.io/) and [CarismaLab](https://www.carismalab.com/). 
 
 In my spare time, I enjoy kayaking, paddling (though still poor), and spending time with my cat Tuantuan. Want to know more or chat about research, mental health, or something else? Email me anytime at junchengwu96@gmail.com. 
 
