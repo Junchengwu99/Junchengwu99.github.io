@@ -17,11 +17,11 @@ In my spare time, I enjoy kayaking, paddling (though still poor), and spending t
 
 Below is my selected publications and works:
 
-[7]   Schmälzle, R.*, Wu, J.*, Lim, S., & Bente, G. (2024, In Press). Inter-Subject Correlations of Pupillary Audience Responses Decoding Visual Attention and Predicting Memory in a VR Media Setting. Journal of Media Psychology. (*co-first authors)[Code](https://github.com/Junchengwu99/vr_video_pupil_study).
+[7]   Schmälzle, R.*, Wu, J.*, Lim, S., & Bente, G. (2024, In Press). Inter-Subject Correlations of Pupillary Audience Responses Decoding Visual Attention and Predicting Memory in a VR Media Setting. Journal of Media Psychology. (*co-first authors) [[Code](https://github.com/Junchengwu99/vr_video_pupil_study)].
 
-[6]   Schmaelzle, R., Lim, S., Wu, J., Bezbaruah, S., Hussain, S.A. (2024). Converging Crowds and Tied Twins: Audience Brain Responses to the Same Movie are Consistent Across Continents and Enhanced Among Twins. Journal of Media Psychology. [Link](https://econtent.hogrefe.com/doi/10.1027/1864-1105/a000422)[Code](https://github.com/Junchengwu99/twins_study).
+[6]   Schmaelzle, R., Lim, S., Wu, J., Bezbaruah, S., Hussain, S.A. (2024). Converging Crowds and Tied Twins: Audience Brain Responses to the Same Movie are Consistent Across Continents and Enhanced Among Twins. Journal of Media Psychology.  [[Link](https://econtent.hogrefe.com/doi/10.1027/1864-1105/a000422)/[Code](https://github.com/Junchengwu99/twins_study)].
 
-[5]   Schmaelzle, R., Lim, S., Cho, H., Wu, J., Bente, G. (2023) The VR Billboard Paradigm: Using VR and Eye-tracking to Examine the Exposure-Reception-Retention Link in Realistic. Plos one, Online first in October 2023. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291924)[Code](https://github.com/Junchengwu99/vr_billboard_paradigm).
+[5]   Schmaelzle, R., Lim, S., Cho, H., Wu, J., Bente, G. (2023) The VR Billboard Paradigm: Using VR and Eye-tracking to Examine the Exposure-Reception-Retention Link in Realistic. Plos one, Online first in October 2023. [[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291924)]/[[Code](https://github.com/Junchengwu99/vr_billboard_paradigm)].
 
 [4]   Wu, J., Zhang, H., Du, Q., Liu, Y. (2024). A Study on the Influencing Factors of Digital Disconnectivity Among Rural Elderly. News and Writing, (08), 31-36+45. [In Chinese]
 
