@@ -13,9 +13,6 @@ I've received my Ph.D. in communication and My primary research interest is in s
 
 In my spare time, I enjoy kayaking, paddling (though still poor), and spending time with my cat Tuantuan. Want to know more or chat about research, mental health, or something else? Email me anytime at junchengwu96@gmail.com. 
 
-
-# 
-
 <img src="/images/brain_image.png" alt="Brain Image" style="width:150px">
 
 
