@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Beijing, China"
+locale                   : "zh-CN"
 title                    : "Juncheng's home page"
 title_separator          : "-"
 name                     : &name "Juncheng Wu"
