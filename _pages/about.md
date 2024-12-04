@@ -16,7 +16,7 @@ In my spare time, I enjoy kayaking, paddling (though still poor), and spending t
 
 # 
 
-<img src="/image/brain_image.png" alt="Brain Image" style="width:150px">
+<img src="/images/brain_image.png" alt="Brain Image" style="width:150px">
 
 
 
