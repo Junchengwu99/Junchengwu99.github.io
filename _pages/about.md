@@ -32,6 +32,7 @@ Below is my selected publications and works:
 ·   Liu, Y., Wu, J. (2019). The Evolution and Regulation of Privacy Paradox in Internet Personalized Ads. Contemporary Communication,(06), 84-87. [In Chinese]
 
 Teaching:
+
 · Statistical Analysis
 
 · Campaign Effect Evaluation
