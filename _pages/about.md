@@ -13,9 +13,10 @@ I've received my Ph.D. in communication and My primary research interest is in s
 
 In my spare time, I enjoy kayaking, paddling (though still poor), and spending time with my cat Tuantuan. Want to know more or chat about research, mental health, or something else? Email me anytime at junchengwu96@gmail.com. 
 
-<img src="/images/brain_image.png" alt="Brain Image">
+<img src="/images/brain_image.png" alt="Brain Image" style="width:300px; height:auto;">
 
-**Below are my selected publications and works:**
+
+**Below is the list of my publications and works:**
 
 [1]  Schmälzle, R.*, Wu, J.*, Lim, S., & Bente, G. (2024, In Press). Inter-Subject Correlations of Pupillary Audience Responses Decoding Visual Attention and Predicting Memory in a VR Media Setting. Journal of Media Psychology. (*co-first authors) [[Code](https://github.com/Junchengwu99/vr_video_pupil_study)].
 
