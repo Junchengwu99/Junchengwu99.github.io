@@ -1,4 +1,4 @@
-{% for post in site.talks %} {% include archive-single-talk.html %} {% endfor %}
+{% for post in site.publications %} {% include archive-single-publication.html %} {% endfor %}
 
 Talks and Presentations Welcome to my talks and presentations page! Below is a list of my recent talks.
 
